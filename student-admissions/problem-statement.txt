@@ -5,3 +5,5 @@ GPA Scores (Grades)
 Class rank (1-4)
 
 The dataset originally came from here: http://www.ats.ucla.edu/
+
+The student_data.csv file contains the dataset.
