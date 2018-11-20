@@ -1,0 +1,1 @@
+To classify red and blue points in the data.csv file by making use of gradient descent algorithm.
